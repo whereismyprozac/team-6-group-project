@@ -1,0 +1,6 @@
+C:\Users\valued customer\source\repos\Bar Chart Group 6 Team Project\obj\Debug\Bar Chart Group 6 Team Project.csproj.AssemblyReference.cache
+C:\Users\valued customer\source\repos\Bar Chart Group 6 Team Project\obj\Debug\Bar Chart Group 6 Team Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\valued customer\source\repos\Bar Chart Group 6 Team Project\obj\Debug\Bar_Chart_Group_6_Team_Project.Form1.resources
+C:\Users\valued customer\source\repos\Bar Chart Group 6 Team Project\obj\Debug\Bar_Chart_Group_6_Team_Project.Properties.Resources.resources
+C:\Users\valued customer\source\repos\Bar Chart Group 6 Team Project\obj\Debug\Bar Chart Group 6 Team Project.csproj.GenerateResource.cache
+C:\Users\valued customer\source\repos\Bar Chart Group 6 Team Project\obj\Debug\Bar Chart Group 6 Team Project.csproj.CoreCompileInputs.cache
